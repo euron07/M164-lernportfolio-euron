@@ -19,7 +19,7 @@ WHERE f.fachbezeichnung = 'Mathe';
 ```
 
 ## 3 Bester Ø aus Deutsch & Mathe  
-*(wenn **1** beste Note ⇒ MIN, wenn **6** beste --> MAX nutzen)*
+*(wenn **1** beste Note --> MIN, wenn **6** beste --> MAX nutzen)*
 ```sql
 -- Variante „1 ist beste Note“
 SELECT MIN((noteDeutsch + noteMathe) / 2) AS bester_durchschnitt
