@@ -36,63 +36,66 @@ SQL kann viele Aufgaben in Datenbanken übernehmen:
 # Aufgaben und Links
 
 ## Tag 1 – Grundlagen & Modellierung
+-   [**Aufgabe 1:** Tourenplaner (ER-Modell)  ](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/1_Aufgabe_Tourenplaner.md)
 
-| #  | Thema                     | Datei                         |
-|----|---------------------------|-------------------------------|
-| 1  | Tourenplaner (ER-Modell)  | [Aufgabe 1](https://github.com/DEIN-REPO/Aufgabe1.md) |
-| 2  | Normalisierung            | [Aufgabe 2](https://github.com/DEIN-REPO/Aufgabe2.md) |
+- [**Aufgabe 2:** Normalisierung](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/2_Aufgabe_Normalisierung.md)
+ 
 
 ## Tag 2 – Forward-Engineering & Partitionierung
+- [**Aufgabe 3:** Generalisierung](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/3_Aufgaben_Generalisierung.md)
 
-| #  | Thema                    | Datei                         |
-|----|--------------------------|-------------------------------|
-| 3  | Generalisierung          | [Aufgabe 3](https://github.com/DEIN-REPO/Aufgabe3.md) |
-| 4  | Beziehungsarten          | [Aufgabe 4](https://github.com/DEIN-REPO/Aufgabe4.md) |
-| 5  | DBMS Überblick           | [Aufgabe 5](https://github.com/DEIN-REPO/Aufgabe5.md) |
-| 6  | DDL – CREATE TABLE u.a.  | [Aufgabe 6](https://github.com/DEIN-REPO/Aufgabe6.md) |
-| 7  | Forward Engineering      | [Aufgabe 7](https://github.com/DEIN-REPO/Aufgabe7.md) |
-| 8  | Synchronize              | [Aufgabe 8](https://github.com/DEIN-REPO/Aufgabe8.md) |
-| 9  | Partitionierung          | [Aufgabe 9](https://github.com/DEIN-REPO/Aufgabe9.md) |
+- [**Aufgabe 4:** Beziehungsarten](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/4_Aufgabe_Beziehungsarten.md) 
+  
+- [**Aufgabe 5:** DBMS Überblick](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/5_Aufgaben_DBMS.md)  
+- [**Aufgabe 6:** DDL – CREATE TABLE u.a.](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/6_Aufgabe_DDL.sql)
+  
+- [**Aufgabe 7:** Forward Engineering](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/7_Aufgaben_Forward_Engineering.md)
+
+- [**Aufgabe 8:** Synchronize](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/8_Aufgaben_Synchronize.md)
+  
+- [**Aufgabe 9:** Partitionierung](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/9_Aufgabe_Partitionen.md) 
+  
 
 ## Tag 3 – Datendefinition & -manipulation
-
-| #   | Thema                              | Datei                         |
-|-----|------------------------------------|-------------------------------|
-| 10  | Datentypen                         | [Aufgabe 10](https://github.com/DEIN-REPO/Aufgabe10.md) |
-| 11  | SELECT (Basis)                     | [Aufgabe 11](https://github.com/DEIN-REPO/Aufgabe11.md) |
-| 12  | INSERT                             | [Aufgabe 12](https://github.com/DEIN-REPO/Aufgabe12.md) |
-| 13  | UPDATE / DELETE / ALTER / DROP     | [Aufgabe 13](https://github.com/DEIN-REPO/Aufgabe13.md) |
+- [**Aufgabe 10:** Datentypen](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/10_Aufgaben_Datentypen.md) 
+  
+- [**Aufgabe 11:** SELECT ](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/11_Aufgaben_Select.sql)
+  
+- [**Aufgabe 12:** INSERT](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/12_Aufgabe_Insert.sql) 
+  
+- [**Aufgabe 13:** UPDATE / DELETE / ALTER / DROP](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/13_Aufgabe_delete_update_drop_alter.sql)
+  
 
 ## Tag 4 – Mengenlehre & Joins
+- [**Aufgabe 14:** Mengenlehre](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/14_Aufgabe_Mengenlehre.md) 
+  
+- [**Aufgabe 15:** JOINs](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/15_Aufgabe_select_join.sql)  
+  
+- [**Aufgabe 16:** JOINs (Advanced)](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/16_Aufgabe_advanced_select_join.sql)
 
-| #   | Thema               | Datei                         |
-|-----|---------------------|-------------------------------|
-| 14  | Mengenlehre         | [Aufgabe 14](https://github.com/DEIN-REPO/Aufgabe14.md) |
-| 15  | JOINs               | [Aufgabe 15](https://github.com/DEIN-REPO/Aufgabe15.md) |
-| 16  | JOINs (Advanced)    | [Aufgabe 16](https://github.com/DEIN-REPO/Aufgabe16.md) |
 
 ## Tag 5 – Datenintegrität & Aggregation
+- [**Aufgabe 17:** Referentielle Datenintegrität](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/17_Aufgabe_Referentielle_Datenintegrit%C3%A4t.md) 
 
-| #   | Thema                                 | Datei                         |
-|-----|---------------------------------------|-------------------------------|
-| 17  | Referentielle Datenintegrität         | [Aufgabe 17](https://github.com/DEIN-REPO/Aufgabe17.md) |
-| 18  | Referentielle Datenintegrität (Advanced) | [Aufgabe 18](https://github.com/DEIN-REPO/Aufgabe18.md) |
-| 19  | Aggregatsfunktionen                   | [Aufgabe 19](https://github.com/DEIN-REPO/Aufgabe19.md) |
-| 20  | GROUP BY                              | [Aufgabe 20](https://github.com/DEIN-REPO/Aufgabe20.md) |
-| 21  | ORDER BY                              | [Aufgabe 21](https://github.com/DEIN-REPO/Aufgabe21.md) |
-| 22  | HAVING                                | [Aufgabe 22](https://github.com/DEIN-REPO/Aufgabe22.md) |
-| 23  | HAVING (Advanced)                     | [Aufgabe 23](https://github.com/DEIN-REPO/Aufgabe23.md) |
+- [**Aufgabe 18:** Referentielle Datenintegrität (Advanced)](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/18_Aufgabe_Advanced_Referentielle_Datenintegrit%C3%A4t.md)
+
+- [**Aufgabe 19:** Aggregatsfunktionen](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/19_Aufgabe_Aggregatsfunktionen.md)
+  
+- [**Aufgabe 20:** GROUP BY](https://github.com/euron07/M164-lernportfolio-euron/tree/main/Aufgaben)  
+  
+- [**Aufgabe 21:** ORDER BY](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/21_Aufgabe_Order.md)
+  
+- [**Aufgabe 22:** SELECT, HAVING](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/22_Aufgabe_Select_Having.md)
+
+- [**Aufgabe 23:** SELECT, HAVING 2](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/23_Aufgabe_2_Select_Having.md)
+
 
 ## Tag 6 – Subqueries
-
-| #   | Thema                   | Datei                         |
-|-----|-------------------------|-------------------------------|
-| 24  | Skalare Subquery        | [Aufgabe 24](https://github.com/DEIN-REPO/Aufgabe24.md) |
-| 25  | Subquery nach FROM      | [Aufgabe 25](https://github.com/DEIN-REPO/Aufgabe25.md) |
+- [**Aufgabe 24:** Skalare Subquery](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/24_Aufgaben_Skalara_Subquery.sql)  
+  
+- [**Aufgabe 25:** Subquery nach FROM](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/25_Aufgaben_From_Subquery.sql) 
+  
 
 ## Tag 7 – Datensicherung
-
-| #   | Thema           | Datei                         |
-|-----|-----------------|-------------------------------|
-| 26  | Datensicherung  | [Aufgabe 26](https://github.com/DEIN-REPO/Aufgabe26.md) |
-
+- [**Aufgabe 26:** Datensicherung](https://github.com/euron07/M164-lernportfolio-euron/blob/main/Aufgaben/26_Aufgabe_Datensicherung.md) 
+  
